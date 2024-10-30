@@ -1,4 +1,3 @@
-@@ -0,0 +1,55 @@
 
 # House Price Prediction using Linear Regression
 
