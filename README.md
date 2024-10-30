@@ -47,12 +47,9 @@ This project focuses on building a linear regression model to predict house pric
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-2. Download the dataset from the [Kaggle link](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) and place it in the working directory.
-3. Run the Jupyter notebook (`House_Data_ML_Supervised_Learning_Linear_Regression_Improved.ipynb`) step-by-step to explore the data, train the model, and analyze its performance.
+2. Download the dataset from the [Kaggle link](https://www.kaggle.com/competitions/digit-recognizer/data) and place it in the working directory.
 
 ---
 
 Data Set - 
 https://www.kaggle.com/competitions/digit-recognizer/data
-
-This README provides an overview of the project goals, methods, and results, guiding future improvements and replication. Let me know if you need any specific additions or adjustments!
