@@ -52,4 +52,7 @@ This project focuses on building a linear regression model to predict house pric
 
 ---
 
+Data Set - 
+https://www.kaggle.com/competitions/digit-recognizer/data
+
 This README provides an overview of the project goals, methods, and results, guiding future improvements and replication. Let me know if you need any specific additions or adjustments!
