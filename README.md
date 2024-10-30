@@ -6,7 +6,7 @@ This project focuses on building a linear regression model to predict house pric
 
 ## Dataset Information
 - **Dataset Name:** House Sales in King County, USA
-- **Source:** [Kaggle - House Sales Prediction](https://www.kaggle.com/competitions/digit-recognizer/data)
+- **Source:** [Kaggle ](https://www.kaggle.com/competitions/digit-recognizer/data)
 - **Description:** The dataset consists of detailed records of house sales in King County, USA, which includes Seattle. It contains over 20,000 records and 21 attributes such as the number of bedrooms, number of bathrooms, square footage, etc., along with the price for each house sold.
 - 
 
